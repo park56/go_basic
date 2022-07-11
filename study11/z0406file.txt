@@ -1,0 +1,5 @@
+JNMLLHello Golang
+ File write test -1 
+Hello golang
+ File Wirite Test
+Test WriteAt -2
