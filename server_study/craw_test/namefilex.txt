@@ -1,0 +1,1300 @@
+<td><a href="/item/main.naver?code=252670" class="tltle">KODEX 200선물인버스2X</a></td>
+<td class="number">3,605</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">75</span>
+<td class="number">
+<span class="tah p11 nv01">-2.04%</span>
+<td class="number">213,541,157</td>
+<td class="number">768,204</td>
+<td class="number">3,605</td>
+<td class="number">3,610</td>
+<td class="number">21,104</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=096300" class="tltle">베트남개발1</a></td>
+<td class="number">396</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up02.gif" width="7" height="11" style="margin-right:4px;"/><span class="tah p11 red02">91</span>
+<td class="number">
+<span class="tah p11 red01">+29.84%</span>
+<td class="number">132,601,322</td>
+<td class="number">49,148</td>
+<td class="number">396</td>
+<td class="number">0</td>
+<td class="number">545</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=007120" class="tltle">미래아이앤지</a></td>
+<td class="number">348</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">64</span>
+<td class="number">
+<span class="tah p11 red01">+22.54%</span>
+<td class="number">91,400,319</td>
+<td class="number">31,320</td>
+<td class="number">348</td>
+<td class="number">349</td>
+<td class="number">485</td>
+<td class="number">-1.73</td>
+<td class="number">-22.53</td>
+<td><a href="/item/main.naver?code=530036" class="tltle">삼성 인버스 2X WTI원유 선물 ETN</a></td>
+<td class="number">140</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">5</span>
+<td class="number">
+<span class="tah p11 nv01">-3.45%</span>
+<td class="number">51,028,116</td>
+<td class="number">6,943</td>
+<td class="number">135</td>
+<td class="number">140</td>
+<td class="number">2,096</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=114800" class="tltle">KODEX 인버스</a></td>
+<td class="number">5,260</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">55</span>
+<td class="number">
+<span class="tah p11 nv01">-1.03%</span>
+<td class="number">40,916,923</td>
+<td class="number">215,034</td>
+<td class="number">5,260</td>
+<td class="number">5,265</td>
+<td class="number">9,789</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=251340" class="tltle">KODEX 코스닥150선물인버스</a></td>
+<td class="number">5,465</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">180</span>
+<td class="number">
+<span class="tah p11 nv01">-3.19%</span>
+<td class="number">38,642,133</td>
+<td class="number">213,306</td>
+<td class="number">5,465</td>
+<td class="number">5,470</td>
+<td class="number">3,607</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=122630" class="tltle">KODEX 레버리지</a></td>
+<td class="number">12,685</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">255</span>
+<td class="number">
+<span class="tah p11 red01">+2.05%</span>
+<td class="number">36,397,151</td>
+<td class="number">462,685</td>
+<td class="number">12,685</td>
+<td class="number">12,690</td>
+<td class="number">22,015</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=233740" class="tltle">KODEX 코스닥150레버리지</a></td>
+<td class="number">6,750</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">380</span>
+<td class="number">
+<span class="tah p11 red01">+5.97%</span>
+<td class="number">28,695,881</td>
+<td class="number">190,240</td>
+<td class="number">6,745</td>
+<td class="number">6,750</td>
+<td class="number">10,058</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=018470" class="tltle">조일알미늄</a></td>
+<td class="number">2,620</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">230</span>
+<td class="number">
+<span class="tah p11 red01">+9.62%</span>
+<td class="number">26,499,502</td>
+<td class="number">67,137</td>
+<td class="number">2,615</td>
+<td class="number">2,620</td>
+<td class="number">3,297</td>
+<td class="number">8.29</td>
+<td class="number">11.25</td>
+<td><a href="/item/main.naver?code=009200" class="tltle">무림페이퍼</a></td>
+<td class="number">2,735</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">595</span>
+<td class="number">
+<span class="tah p11 red01">+27.80%</span>
+<td class="number">20,673,591</td>
+<td class="number">55,837</td>
+<td class="number">2,735</td>
+<td class="number">2,740</td>
+<td class="number">1,138</td>
+<td class="number">-13.02</td>
+<td class="number">-1.61</td>
+<td><a href="/item/main.naver?code=500027" class="tltle">신한 인버스 2X WTI원유 선물 ETN(H)</a></td>
+<td class="number">115</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">5</span>
+<td class="number">
+<span class="tah p11 nv01">-4.17%</span>
+<td class="number">17,882,149</td>
+<td class="number">2,054</td>
+<td class="number">110</td>
+<td class="number">115</td>
+<td class="number">728</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=011810" class="tltle">STX</a></td>
+<td class="number">4,335</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">125</span>
+<td class="number">
+<span class="tah p11 red01">+2.97%</span>
+<td class="number">16,308,641</td>
+<td class="number">73,535</td>
+<td class="number">4,335</td>
+<td class="number">4,340</td>
+<td class="number">1,241</td>
+<td class="number">19.98</td>
+<td class="number">-28.88</td>
+<td><a href="/item/main.naver?code=007460" class="tltle">에이프로젠</a></td>
+<td class="number">992</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">31</span>
+<td class="number">
+<span class="tah p11 red01">+3.23%</span>
+<td class="number">15,011,853</td>
+<td class="number">15,130</td>
+<td class="number">992</td>
+<td class="number">993</td>
+<td class="number">7,549</td>
+<td class="number">-17.71</td>
+<td class="number">-5.50</td>
+<td><a href="/item/main.naver?code=005930" class="tltle">삼성전자</a></td>
+<td class="number">56,300</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">300</span>
+<td class="number">
+<span class="tah p11 red01">+0.54%</span>
+<td class="number">14,880,820</td>
+<td class="number">844,495</td>
+<td class="number">56,300</td>
+<td class="number">56,400</td>
+<td class="number">3,360,988</td>
+<td class="number">8.54</td>
+<td class="number">13.92</td>
+<td><a href="/item/main.naver?code=091090" class="tltle">세원이앤씨</a></td>
+<td class="number">853</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">9</span>
+<td class="number">
+<span class="tah p11 red01">+1.07%</span>
+<td class="number">14,541,692</td>
+<td class="number">12,508</td>
+<td class="number">853</td>
+<td class="number">854</td>
+<td class="number">1,819</td>
+<td class="number">-14.46</td>
+<td class="number">-1.44</td>
+<td><a href="/item/main.naver?code=500054" class="tltle">신한 인버스 2X 천연가스 선물 ETN</a></td>
+<td class="number">210</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">25</span>
+<td class="number">
+<span class="tah p11 nv01">-10.64%</span>
+<td class="number">13,191,879</td>
+<td class="number">2,886</td>
+<td class="number">210</td>
+<td class="number">215</td>
+<td class="number">724</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=570046" class="tltle">TRUE 인버스 2X 천연가스 선물 ETN(H)</a></td>
+<td class="number">370</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">35</span>
+<td class="number">
+<span class="tah p11 nv01">-8.64%</span>
+<td class="number">11,150,463</td>
+<td class="number">4,189</td>
+<td class="number">365</td>
+<td class="number">370</td>
+<td class="number">548</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=092220" class="tltle">KEC</a></td>
+<td class="number">2,550</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">220</span>
+<td class="number">
+<span class="tah p11 red01">+9.44%</span>
+<td class="number">10,155,256</td>
+<td class="number">26,329</td>
+<td class="number">2,545</td>
+<td class="number">2,550</td>
+<td class="number">3,691</td>
+<td class="number">25.76</td>
+<td class="number">4.41</td>
+<td><a href="/item/main.naver?code=003060" class="tltle">에이프로젠제약</a></td>
+<td class="number">606</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">17</span>
+<td class="number">
+<span class="tah p11 red01">+2.89%</span>
+<td class="number">9,539,419</td>
+<td class="number">5,871</td>
+<td class="number">606</td>
+<td class="number">607</td>
+<td class="number">2,415</td>
+<td class="number">23.31</td>
+<td class="number">1.60</td>
+<td><a href="/item/main.naver?code=229200" class="tltle">KODEX 코스닥150</a></td>
+<td class="number">9,945</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">305</span>
+<td class="number">
+<span class="tah p11 red01">+3.16%</span>
+<td class="number">8,508,280</td>
+<td class="number">84,019</td>
+<td class="number">9,945</td>
+<td class="number">9,950</td>
+<td class="number">4,982</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=069500" class="tltle">KODEX 200</a></td>
+<td class="number">29,285</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">320</span>
+<td class="number">
+<span class="tah p11 red01">+1.10%</span>
+<td class="number">7,273,876</td>
+<td class="number">213,218</td>
+<td class="number">29,280</td>
+<td class="number">29,285</td>
+<td class="number">49,711</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=025620" class="tltle">제이준코스메틱</a></td>
+<td class="number">447</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">28</span>
+<td class="number">
+<span class="tah p11 red01">+6.68%</span>
+<td class="number">6,942,557</td>
+<td class="number">3,123</td>
+<td class="number">446</td>
+<td class="number">447</td>
+<td class="number">344</td>
+<td class="number">-0.95</td>
+<td class="number">-63.88</td>
+<td><a href="/item/main.naver?code=003280" class="tltle">흥아해운</a></td>
+<td class="number">1,510</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">275</span>
+<td class="number">
+<span class="tah p11 red01">+22.27%</span>
+<td class="number">6,309,229</td>
+<td class="number">9,517</td>
+<td class="number">1,505</td>
+<td class="number">1,510</td>
+<td class="number">3,630</td>
+<td class="number">-15.73</td>
+<td class="number">42.88</td>
+<td><a href="/item/main.naver?code=053690" class="tltle">한미글로벌</a></td>
+<td class="number">27,700</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">1,350</span>
+<td class="number">
+<span class="tah p11 red01">+5.12%</span>
+<td class="number">6,212,732</td>
+<td class="number">173,076</td>
+<td class="number">27,700</td>
+<td class="number">27,750</td>
+<td class="number">3,035</td>
+<td class="number">19.65</td>
+<td class="number">11.52</td>
+<td><a href="/item/main.naver?code=001520" class="tltle">동양</a></td>
+<td class="number">993</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">68</span>
+<td class="number">
+<span class="tah p11 red01">+7.35%</span>
+<td class="number">5,972,559</td>
+<td class="number">6,240</td>
+<td class="number">993</td>
+<td class="number">994</td>
+<td class="number">2,370</td>
+<td class="number">82.75</td>
+<td class="number">2.04</td>
+<td><a href="/item/main.naver?code=002140" class="tltle">고려산업</a></td>
+<td class="number">5,820</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">130</span>
+<td class="number">
+<span class="tah p11 nv01">-2.18%</span>
+<td class="number">5,615,627</td>
+<td class="number">33,811</td>
+<td class="number">5,820</td>
+<td class="number">5,830</td>
+<td class="number">1,451</td>
+<td class="number">-90.94</td>
+<td class="number">4.32</td>
+<td><a href="/item/main.naver?code=000040" class="tltle">KR모터스</a></td>
+<td class="number">706</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">4</span>
+<td class="number">
+<span class="tah p11 nv01">-0.56%</span>
+<td class="number">5,521,530</td>
+<td class="number">3,977</td>
+<td class="number">706</td>
+<td class="number">707</td>
+<td class="number">679</td>
+<td class="number">-8.40</td>
+<td class="number">-25.82</td>
+<td><a href="/item/main.naver?code=252710" class="tltle">TIGER 200선물인버스2X</a></td>
+<td class="number">3,780</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">70</span>
+<td class="number">
+<span class="tah p11 nv01">-1.82%</span>
+<td class="number">5,297,000</td>
+<td class="number">19,977</td>
+<td class="number">3,780</td>
+<td class="number">3,785</td>
+<td class="number">1,418</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=372910" class="tltle">한컴라이프케어</a></td>
+<td class="number">6,670</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">70</span>
+<td class="number">
+<span class="tah p11 red01">+1.06%</span>
+<td class="number">5,102,820</td>
+<td class="number">34,769</td>
+<td class="number">6,660</td>
+<td class="number">6,670</td>
+<td class="number">1,846</td>
+<td class="number">-105.87</td>
+<td class="number">6.38</td>
+<td><a href="/item/main.naver?code=006220" class="tltle">제주은행</a></td>
+<td class="number">9,870</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">240</span>
+<td class="number">
+<span class="tah p11 red01">+2.49%</span>
+<td class="number">5,102,463</td>
+<td class="number">49,728</td>
+<td class="number">9,860</td>
+<td class="number">9,870</td>
+<td class="number">3,171</td>
+<td class="number">21.69</td>
+<td class="number">3.60</td>
+<td><a href="/item/main.naver?code=001440" class="tltle">대한전선</a></td>
+<td class="number">1,505</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">30</span>
+<td class="number">
+<span class="tah p11 red01">+2.03%</span>
+<td class="number">4,435,036</td>
+<td class="number">6,648</td>
+<td class="number">1,500</td>
+<td class="number">1,505</td>
+<td class="number">18,729</td>
+<td class="number">39.61</td>
+<td class="number">7.78</td>
+<td><a href="/item/main.naver?code=005880" class="tltle">대한해운</a></td>
+<td class="number">2,110</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">125</span>
+<td class="number">
+<span class="tah p11 red01">+6.30%</span>
+<td class="number">4,382,869</td>
+<td class="number">9,278</td>
+<td class="number">2,110</td>
+<td class="number">2,115</td>
+<td class="number">6,735</td>
+<td class="number">2.34</td>
+<td class="number">23.91</td>
+<td><a href="/item/main.naver?code=008420" class="tltle">문배철강</a></td>
+<td class="number">4,610</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">330</span>
+<td class="number">
+<span class="tah p11 red01">+7.71%</span>
+<td class="number">4,382,030</td>
+<td class="number">19,534</td>
+<td class="number">4,610</td>
+<td class="number">4,615</td>
+<td class="number">945</td>
+<td class="number">4.35</td>
+<td class="number">19.37</td>
+<td><a href="/item/main.naver?code=130660" class="tltle">한전산업</a></td>
+<td class="number">9,500</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">1,300</span>
+<td class="number">
+<span class="tah p11 red01">+15.85%</span>
+<td class="number">4,088,628</td>
+<td class="number">39,524</td>
+<td class="number">9,490</td>
+<td class="number">9,500</td>
+<td class="number">3,097</td>
+<td class="number">26.91</td>
+<td class="number">10.22</td>
+<td><a href="/item/main.naver?code=009580" class="tltle">무림P&amp;P</a></td>
+<td class="number">4,565</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">255</span>
+<td class="number">
+<span class="tah p11 red01">+5.92%</span>
+<td class="number">3,970,560</td>
+<td class="number">18,714</td>
+<td class="number">4,560</td>
+<td class="number">4,565</td>
+<td class="number">2,847</td>
+<td class="number">12.44</td>
+<td class="number">3.09</td>
+<td><a href="/item/main.naver?code=008040" class="tltle">사조동아원</a></td>
+<td class="number">1,185</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">30</span>
+<td class="number">
+<span class="tah p11 red01">+2.60%</span>
+<td class="number">3,966,714</td>
+<td class="number">4,709</td>
+<td class="number">1,180</td>
+<td class="number">1,185</td>
+<td class="number">1,673</td>
+<td class="number">-38.23</td>
+<td class="number">1.13</td>
+<td><a href="/item/main.naver?code=500032" class="tltle">신한 인버스 2X 천연가스 선물 ETN(H)</a></td>
+<td class="number">125</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">10</span>
+<td class="number">
+<span class="tah p11 nv01">-7.41%</span>
+<td class="number">3,829,281</td>
+<td class="number">475</td>
+<td class="number">120</td>
+<td class="number">125</td>
+<td class="number">375</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=102280" class="tltle">쌍방울</a></td>
+<td class="number">416</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">12</span>
+<td class="number">
+<span class="tah p11 red01">+2.97%</span>
+<td class="number">3,647,683</td>
+<td class="number">1,512</td>
+<td class="number">416</td>
+<td class="number">417</td>
+<td class="number">1,092</td>
+<td class="number">-2.03</td>
+<td class="number">-8.37</td>
+<td><a href="/item/main.naver?code=034020" class="tltle">두산에너빌리티</a></td>
+<td class="number">14,800</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">550</span>
+<td class="number">
+<span class="tah p11 red01">+3.86%</span>
+<td class="number">3,449,358</td>
+<td class="number">50,797</td>
+<td class="number">14,750</td>
+<td class="number">14,800</td>
+<td class="number">94,470</td>
+<td class="number">111.28</td>
+<td class="number">10.67</td>
+<td><a href="/item/main.naver?code=035420" class="tltle">NAVER</a></td>
+<td class="number">167,000</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">3,000</span>
+<td class="number">
+<span class="tah p11 red01">+1.83%</span>
+<td class="number">3,401,480</td>
+<td class="number">567,273</td>
+<td class="number">167,000</td>
+<td class="number">167,500</td>
+<td class="number">273,962</td>
+<td class="number">27.24</td>
+<td class="number">106.72</td>
+<td><a href="/item/main.naver?code=006490" class="tltle">인스코비</a></td>
+<td class="number">1,670</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">175</span>
+<td class="number">
+<span class="tah p11 red01">+11.71%</span>
+<td class="number">3,367,556</td>
+<td class="number">5,469</td>
+<td class="number">1,665</td>
+<td class="number">1,670</td>
+<td class="number">1,835</td>
+<td class="number">417.50</td>
+<td class="number">9.75</td>
+<td><a href="/item/main.naver?code=004310" class="tltle">현대약품</a></td>
+<td class="number">5,400</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">70</span>
+<td class="number">
+<span class="tah p11 red01">+1.31%</span>
+<td class="number">3,348,059</td>
+<td class="number">18,302</td>
+<td class="number">5,400</td>
+<td class="number">5,410</td>
+<td class="number">1,728</td>
+<td class="number">186.21</td>
+<td class="number">-3.59</td>
+<td><a href="/item/main.naver?code=083420" class="tltle">그린케미칼</a></td>
+<td class="number">11,800</td>
+<td class="number">
+<span class="tah p11">0</span></td><td class="number">
+<td class="number">
+<span class="tah p11">0.00%</span></td>
+<td class="number">3,325,401</td>
+<td class="number">39,052</td>
+<td class="number">11,800</td>
+<td class="number">11,850</td>
+<td class="number">2,832</td>
+<td class="number">14.08</td>
+<td class="number">13.46</td>
+<td><a href="/item/main.naver?code=432320" class="tltle">KB스타리츠</a></td>
+<td class="number">4,340</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">160</span>
+<td class="number">
+<span class="tah p11 nv01">-3.56%</span>
+<td class="number">3,276,168</td>
+<td class="number">13,883</td>
+<td class="number">4,335</td>
+<td class="number">4,340</td>
+<td class="number">4,401</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=001570" class="tltle">금양</a></td>
+<td class="number">17,050</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">450</span>
+<td class="number">
+<span class="tah p11 red01">+2.71%</span>
+<td class="number">3,259,509</td>
+<td class="number">54,682</td>
+<td class="number">17,000</td>
+<td class="number">17,050</td>
+<td class="number">9,898</td>
+<td class="number">55.00</td>
+<td class="number">13.57</td>
+<td><a href="/item/main.naver?code=025530" class="tltle">SJM홀딩스</a></td>
+<td class="number">4,720</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">35</span>
+<td class="number">
+<span class="tah p11 nv01">-0.74%</span>
+<td class="number">3,247,929</td>
+<td class="number">15,864</td>
+<td class="number">4,720</td>
+<td class="number">4,730</td>
+<td class="number">705</td>
+<td class="number">19.50</td>
+<td class="number">2.84</td>
+<td><a href="/item/main.naver?code=005950" class="tltle">이수화학</a></td>
+<td class="number">23,750</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">3,000</span>
+<td class="number">
+<span class="tah p11 red01">+14.46%</span>
+<td class="number">3,058,833</td>
+<td class="number">71,029</td>
+<td class="number">23,700</td>
+<td class="number">23,750</td>
+<td class="number">6,640</td>
+<td class="number">10.25</td>
+<td class="number">35.21</td>
+<td><a href="/item/main.naver?code=214330" class="tltle">금호에이치티</a></td>
+<td class="number">1,105</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">25</span>
+<td class="number">
+<span class="tah p11 red01">+2.31%</span>
+<td class="number">3,058,066</td>
+<td class="number">3,401</td>
+<td class="number">1,100</td>
+<td class="number">1,105</td>
+<td class="number">2,199</td>
+<td class="number">-7.84</td>
+<td class="number">-6.25</td>
+<td><a href="/item/main.naver?code=011200" class="tltle">HMM</a></td>
+<td class="number">18,350</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">250</span>
+<td class="number">
+<span class="tah p11 red01">+1.38%</span>
+<td class="number">3,047,399</td>
+<td class="number">55,523</td>
+<td class="number">18,350</td>
+<td class="number">18,400</td>
+<td class="number">89,739</td>
+<td class="number">0.77</td>
+<td class="number">88.62</td>
+<td><a href="/item/main.naver?code=009830" class="tltle">한화솔루션</a></td>
+<td class="number">50,000</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">1,200</span>
+<td class="number">
+<span class="tah p11 nv01">-2.34%</span>
+<td class="number">2,819,537</td>
+<td class="number">140,690</td>
+<td class="number">50,000</td>
+<td class="number">50,100</td>
+<td class="number">95,639</td>
+<td class="number">27.52</td>
+<td class="number">8.79</td>
+<td><a href="/item/main.naver?code=000660" class="tltle">SK하이닉스</a></td>
+<td class="number">89,900</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">100</span>
+<td class="number">
+<span class="tah p11 red01">+0.11%</span>
+<td class="number">2,675,042</td>
+<td class="number">242,738</td>
+<td class="number">89,900</td>
+<td class="number">90,000</td>
+<td class="number">654,474</td>
+<td class="number">5.70</td>
+<td class="number">16.84</td>
+<td><a href="/item/main.naver?code=093230" class="tltle">이아이디</a></td>
+<td class="number">1,140</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">55</span>
+<td class="number">
+<span class="tah p11 red01">+5.07%</span>
+<td class="number">2,649,315</td>
+<td class="number">3,188</td>
+<td class="number">1,135</td>
+<td class="number">1,140</td>
+<td class="number">1,161</td>
+<td class="number">-1.21</td>
+<td class="number">2.44</td>
+<td><a href="/item/main.naver?code=004920" class="tltle">씨아이테크</a></td>
+<td class="number">892</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">111</span>
+<td class="number">
+<span class="tah p11 red01">+14.21%</span>
+<td class="number">2,601,845</td>
+<td class="number">2,341</td>
+<td class="number">892</td>
+<td class="number">897</td>
+<td class="number">389</td>
+<td class="number">14.62</td>
+<td class="number">-15.91</td>
+<td><a href="/item/main.naver?code=002360" class="tltle">SH에너지화학</a></td>
+<td class="number">973</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">36</span>
+<td class="number">
+<span class="tah p11 red01">+3.84%</span>
+<td class="number">2,511,888</td>
+<td class="number">2,422</td>
+<td class="number">972</td>
+<td class="number">973</td>
+<td class="number">1,081</td>
+<td class="number">54.06</td>
+<td class="number">0.69</td>
+<td><a href="/item/main.naver?code=005030" class="tltle">부산주공</a></td>
+<td class="number">744</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">7</span>
+<td class="number">
+<span class="tah p11 red01">+0.95%</span>
+<td class="number">2,423,616</td>
+<td class="number">1,807</td>
+<td class="number">743</td>
+<td class="number">744</td>
+<td class="number">543</td>
+<td class="number">-2.95</td>
+<td class="number">-47.16</td>
+<td><a href="/item/main.naver?code=024890" class="tltle">대원화성</a></td>
+<td class="number">3,065</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">70</span>
+<td class="number">
+<span class="tah p11 red01">+2.34%</span>
+<td class="number">2,421,056</td>
+<td class="number">7,328</td>
+<td class="number">3,060</td>
+<td class="number">3,065</td>
+<td class="number">1,264</td>
+<td class="number">-17.61</td>
+<td class="number">-9.53</td>
+<td><a href="/item/main.naver?code=010140" class="tltle">삼성중공업</a></td>
+<td class="number">5,470</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">120</span>
+<td class="number">
+<span class="tah p11 red01">+2.24%</span>
+<td class="number">2,293,884</td>
+<td class="number">12,532</td>
+<td class="number">5,460</td>
+<td class="number">5,470</td>
+<td class="number">48,136</td>
+<td class="number">-7.23</td>
+<td class="number">-36.89</td>
+<td><a href="/item/main.naver?code=004090" class="tltle">한국석유</a></td>
+<td class="number">11,850</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">850</span>
+<td class="number">
+<span class="tah p11 red01">+7.73%</span>
+<td class="number">2,269,991</td>
+<td class="number">28,177</td>
+<td class="number">11,850</td>
+<td class="number">11,900</td>
+<td class="number">1,504</td>
+<td class="number">14.14</td>
+<td class="number">7.59</td>
+<td><a href="/item/main.naver?code=092200" class="tltle">디아이씨</a></td>
+<td class="number">4,220</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">135</span>
+<td class="number">
+<span class="tah p11 red01">+3.30%</span>
+<td class="number">2,184,780</td>
+<td class="number">9,242</td>
+<td class="number">4,220</td>
+<td class="number">4,225</td>
+<td class="number">1,641</td>
+<td class="number">10.24</td>
+<td class="number">45.03</td>
+<td><a href="/item/main.naver?code=035720" class="tltle">카카오</a></td>
+<td class="number">54,800</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">300</span>
+<td class="number">
+<span class="tah p11 red01">+0.55%</span>
+<td class="number">2,110,843</td>
+<td class="number">115,714</td>
+<td class="number">54,800</td>
+<td class="number">54,900</td>
+<td class="number">244,031</td>
+<td class="number">10.96</td>
+<td class="number">17.10</td>
+<td><a href="/item/main.naver?code=123310" class="tltle">TIGER 인버스</a></td>
+<td class="number">5,865</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">60</span>
+<td class="number">
+<span class="tah p11 nv01">-1.01%</span>
+<td class="number">2,038,257</td>
+<td class="number">11,952</td>
+<td class="number">5,865</td>
+<td class="number">5,870</td>
+<td class="number">1,038</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=005110" class="tltle">한창</a></td>
+<td class="number">1,030</td>
+<td class="number">
+<span class="tah p11">0</span></td><td class="number">
+<td class="number">
+<span class="tah p11">0.00%</span></td>
+<td class="number">1,975,709</td>
+<td class="number">2,023</td>
+<td class="number">1,025</td>
+<td class="number">1,030</td>
+<td class="number">817</td>
+<td class="number">-2.49</td>
+<td class="number">-66.20</td>
+<td><a href="/item/main.naver?code=034830" class="tltle">한국토지신탁</a></td>
+<td class="number">1,375</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">10</span>
+<td class="number">
+<span class="tah p11 red01">+0.73%</span>
+<td class="number">1,890,090</td>
+<td class="number">2,584</td>
+<td class="number">1,375</td>
+<td class="number">1,380</td>
+<td class="number">3,472</td>
+<td class="number">3.22</td>
+<td class="number">14.37</td>
+<td><a href="/item/main.naver?code=261260" class="tltle">KODEX 미국달러선물인버스2X</a></td>
+<td class="number">6,175</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">65</span>
+<td class="number">
+<span class="tah p11 red01">+1.06%</span>
+<td class="number">1,883,258</td>
+<td class="number">11,597</td>
+<td class="number">6,175</td>
+<td class="number">6,180</td>
+<td class="number">1,993</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=157450" class="tltle">TIGER 단기통안채</a></td>
+<td class="number">101,450</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">45</span>
+<td class="number">
+<span class="tah p11 red01">+0.04%</span>
+<td class="number">1,858,507</td>
+<td class="number">188,527</td>
+<td class="number">101,450</td>
+<td class="number">101,455</td>
+<td class="number">15,994</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=011930" class="tltle">신성이엔지</a></td>
+<td class="number">2,015</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">85</span>
+<td class="number">
+<span class="tah p11 red01">+4.40%</span>
+<td class="number">1,853,477</td>
+<td class="number">3,699</td>
+<td class="number">2,010</td>
+<td class="number">2,015</td>
+<td class="number">4,148</td>
+<td class="number">-155.00</td>
+<td class="number">-7.97</td>
+<td><a href="/item/main.naver?code=034220" class="tltle">LG디스플레이</a></td>
+<td class="number">13,850</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">300</span>
+<td class="number">
+<span class="tah p11 red01">+2.21%</span>
+<td class="number">1,825,107</td>
+<td class="number">24,914</td>
+<td class="number">13,800</td>
+<td class="number">13,850</td>
+<td class="number">49,557</td>
+<td class="number">23.55</td>
+<td class="number">9.68</td>
+<td><a href="/item/main.naver?code=530031" class="tltle">삼성 레버리지 WTI원유 선물 ETN</a></td>
+<td class="number">1,885</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">40</span>
+<td class="number">
+<span class="tah p11 red01">+2.17%</span>
+<td class="number">1,768,833</td>
+<td class="number">3,378</td>
+<td class="number">1,880</td>
+<td class="number">1,885</td>
+<td class="number">7,615</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=005420" class="tltle">코스모화학</a></td>
+<td class="number">23,800</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">1,400</span>
+<td class="number">
+<span class="tah p11 red01">+6.25%</span>
+<td class="number">1,731,572</td>
+<td class="number">40,774</td>
+<td class="number">23,750</td>
+<td class="number">23,800</td>
+<td class="number">8,332</td>
+<td class="number">45.95</td>
+<td class="number">7.89</td>
+<td><a href="/item/main.naver?code=305720" class="tltle">KODEX 2차전지산업</a></td>
+<td class="number">18,305</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">655</span>
+<td class="number">
+<span class="tah p11 red01">+3.71%</span>
+<td class="number">1,597,863</td>
+<td class="number">29,020</td>
+<td class="number">18,300</td>
+<td class="number">18,305</td>
+<td class="number">12,374</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=010660" class="tltle">화천기계</a></td>
+<td class="number">5,570</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">50</span>
+<td class="number">
+<span class="tah p11 red01">+0.91%</span>
+<td class="number">1,596,883</td>
+<td class="number">8,958</td>
+<td class="number">5,560</td>
+<td class="number">5,570</td>
+<td class="number">1,225</td>
+<td class="number">20.94</td>
+<td class="number">4.37</td>
+<td><a href="/item/main.naver?code=028670" class="tltle">팬오션</a></td>
+<td class="number">4,800</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">165</span>
+<td class="number">
+<span class="tah p11 red01">+3.56%</span>
+<td class="number">1,582,824</td>
+<td class="number">7,576</td>
+<td class="number">4,800</td>
+<td class="number">4,805</td>
+<td class="number">25,659</td>
+<td class="number">3.24</td>
+<td class="number">17.16</td>
+<td><a href="/item/main.naver?code=074610" class="tltle">이엔플러스</a></td>
+<td class="number">3,930</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">20</span>
+<td class="number">
+<span class="tah p11 red01">+0.51%</span>
+<td class="number">1,562,056</td>
+<td class="number">6,092</td>
+<td class="number">3,930</td>
+<td class="number">3,935</td>
+<td class="number">2,269</td>
+<td class="number">-10.98</td>
+<td class="number">-30.57</td>
+<td><a href="/item/main.naver?code=008560" class="tltle">메리츠증권</a></td>
+<td class="number">3,620</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">30</span>
+<td class="number">
+<span class="tah p11 red01">+0.84%</span>
+<td class="number">1,559,067</td>
+<td class="number">5,607</td>
+<td class="number">3,615</td>
+<td class="number">3,620</td>
+<td class="number">23,158</td>
+<td class="number">3.16</td>
+<td class="number">15.77</td>
+<td><a href="/item/main.naver?code=117580" class="tltle">대성에너지</a></td>
+<td class="number">12,800</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">650</span>
+<td class="number">
+<span class="tah p11 red01">+5.35%</span>
+<td class="number">1,556,798</td>
+<td class="number">19,737</td>
+<td class="number">12,750</td>
+<td class="number">12,800</td>
+<td class="number">3,520</td>
+<td class="number">27.35</td>
+<td class="number">3.77</td>
+<td><a href="/item/main.naver?code=000270" class="tltle">기아</a></td>
+<td class="number">71,500</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">400</span>
+<td class="number">
+<span class="tah p11 red01">+0.56%</span>
+<td class="number">1,544,362</td>
+<td class="number">110,163</td>
+<td class="number">71,400</td>
+<td class="number">71,500</td>
+<td class="number">289,835</td>
+<td class="number">5.47</td>
+<td class="number">14.69</td>
+<td><a href="/item/main.naver?code=010600" class="tltle">웰바이오텍</a></td>
+<td class="number">1,415</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">70</span>
+<td class="number">
+<span class="tah p11 red01">+5.20%</span>
+<td class="number">1,539,987</td>
+<td class="number">2,197</td>
+<td class="number">1,415</td>
+<td class="number">1,425</td>
+<td class="number">940</td>
+<td class="number">-10.48</td>
+<td class="number">-75.72</td>
+<td><a href="/item/main.naver?code=004410" class="tltle">서울식품</a></td>
+<td class="number">220</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">5</span>
+<td class="number">
+<span class="tah p11 red01">+2.33%</span>
+<td class="number">1,529,184</td>
+<td class="number">333</td>
+<td class="number">220</td>
+<td class="number">221</td>
+<td class="number">824</td>
+<td class="number">-31.43</td>
+<td class="number">-21.25</td>
+<td><a href="/item/main.naver?code=002900" class="tltle">TYM</a></td>
+<td class="number">2,180</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">90</span>
+<td class="number">
+<span class="tah p11 red01">+4.31%</span>
+<td class="number">1,406,041</td>
+<td class="number">3,038</td>
+<td class="number">2,175</td>
+<td class="number">2,180</td>
+<td class="number">3,321</td>
+<td class="number">3.70</td>
+<td class="number">14.28</td>
+<td><a href="/item/main.naver?code=371460" class="tltle">TIGER 차이나전기차SOLACTIVE</a></td>
+<td class="number">13,950</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">195</span>
+<td class="number">
+<span class="tah p11 nv01">-1.38%</span>
+<td class="number">1,371,864</td>
+<td class="number">19,275</td>
+<td class="number">13,945</td>
+<td class="number">13,950</td>
+<td class="number">33,112</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=004830" class="tltle">덕성</a></td>
+<td class="number">5,330</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">240</span>
+<td class="number">
+<span class="tah p11 red01">+4.72%</span>
+<td class="number">1,360,968</td>
+<td class="number">7,117</td>
+<td class="number">5,320</td>
+<td class="number">5,330</td>
+<td class="number">836</td>
+<td class="number">16.30</td>
+<td class="number">7.83</td>
+<td><a href="/item/main.naver?code=078520" class="tltle">에이블씨엔씨</a></td>
+<td class="number">5,060</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">615</span>
+<td class="number">
+<span class="tah p11 red01">+13.84%</span>
+<td class="number">1,339,301</td>
+<td class="number">6,811</td>
+<td class="number">5,060</td>
+<td class="number">5,100</td>
+<td class="number">1,368</td>
+<td class="number">-10.84</td>
+<td class="number">-32.04</td>
+<td><a href="/item/main.naver?code=323410" class="tltle">카카오뱅크</a></td>
+<td class="number">20,250</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">250</span>
+<td class="number">
+<span class="tah p11 red01">+1.25%</span>
+<td class="number">1,261,163</td>
+<td class="number">25,692</td>
+<td class="number">20,250</td>
+<td class="number">20,300</td>
+<td class="number">96,518</td>
+<td class="number">44.90</td>
+<td class="number">4.91</td>
+<td><a href="/item/main.naver?code=064350" class="tltle">현대로템</a></td>
+<td class="number">26,550</td>
+<td class="number">
+<span class="tah p11">0</span></td><td class="number">
+<td class="number">
+<span class="tah p11">0.00%</span></td>
+<td class="number">1,247,010</td>
+<td class="number">33,089</td>
+<td class="number">26,550</td>
+<td class="number">26,600</td>
+<td class="number">28,977</td>
+<td class="number">34.66</td>
+<td class="number">5.01</td>
+<td><a href="/item/main.naver?code=042660" class="tltle">대우조선해양</a></td>
+<td class="number">21,000</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">1,650</span>
+<td class="number">
+<span class="tah p11 red01">+8.53%</span>
+<td class="number">1,223,213</td>
+<td class="number">24,949</td>
+<td class="number">20,950</td>
+<td class="number">21,000</td>
+<td class="number">22,531</td>
+<td class="number">-2.01</td>
+<td class="number">-55.86</td>
+<td><a href="/item/main.naver?code=001470" class="tltle">삼부토건</a></td>
+<td class="number">1,505</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">50</span>
+<td class="number">
+<span class="tah p11 red01">+3.44%</span>
+<td class="number">1,164,305</td>
+<td class="number">1,744</td>
+<td class="number">1,505</td>
+<td class="number">1,510</td>
+<td class="number">2,824</td>
+<td class="number">136.82</td>
+<td class="number">3.67</td>
+<td><a href="/item/main.naver?code=002870" class="tltle">신풍제지</a></td>
+<td class="number">1,350</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">75</span>
+<td class="number">
+<span class="tah p11 red01">+5.88%</span>
+<td class="number">1,160,096</td>
+<td class="number">1,593</td>
+<td class="number">1,345</td>
+<td class="number">1,350</td>
+<td class="number">472</td>
+<td class="number">-2.81</td>
+<td class="number">-10.55</td>
+<td><a href="/item/main.naver?code=278530" class="tltle">KODEX 200TR</a></td>
+<td class="number">9,780</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">90</span>
+<td class="number">
+<span class="tah p11 red01">+0.93%</span>
+<td class="number">1,106,065</td>
+<td class="number">10,838</td>
+<td class="number">9,770</td>
+<td class="number">9,780</td>
+<td class="number">15,007</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=153130" class="tltle">KODEX 단기채권</a></td>
+<td class="number">103,810</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">35</span>
+<td class="number">
+<span class="tah p11 red01">+0.03%</span>
+<td class="number">1,085,445</td>
+<td class="number">112,691</td>
+<td class="number">103,810</td>
+<td class="number">103,815</td>
+<td class="number">11,293</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=305540" class="tltle">TIGER 2차전지테마</a></td>
+<td class="number">17,470</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">760</span>
+<td class="number">
+<span class="tah p11 red01">+4.55%</span>
+<td class="number">1,074,138</td>
+<td class="number">18,595</td>
+<td class="number">17,470</td>
+<td class="number">17,475</td>
+<td class="number">11,958</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=396500" class="tltle">TIGER Fn반도체TOP10</a></td>
+<td class="number">6,750</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">120</span>
+<td class="number">
+<span class="tah p11 red01">+1.81%</span>
+<td class="number">1,073,722</td>
+<td class="number">7,234</td>
+<td class="number">6,740</td>
+<td class="number">6,750</td>
+<td class="number">621</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=271050" class="tltle">KODEX WTI원유선물인버스(H)</a></td>
+<td class="number">4,610</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">65</span>
+<td class="number">
+<span class="tah p11 nv01">-1.39%</span>
+<td class="number">1,064,033</td>
+<td class="number">4,880</td>
+<td class="number">4,605</td>
+<td class="number">4,610</td>
+<td class="number">802</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=005935" class="tltle">삼성전자우</a></td>
+<td class="number">50,600</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">400</span>
+<td class="number">
+<span class="tah p11 nv01">-0.78%</span>
+<td class="number">1,027,181</td>
+<td class="number">52,359</td>
+<td class="number">50,600</td>
+<td class="number">50,700</td>
+<td class="number">416,381</td>
+<td class="number">7.67</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=008350" class="tltle">남선알미늄</a></td>
+<td class="number">1,850</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">85</span>
+<td class="number">
+<span class="tah p11 red01">+4.82%</span>
+<td class="number">1,012,713</td>
+<td class="number">1,846</td>
+<td class="number">1,845</td>
+<td class="number">1,850</td>
+<td class="number">2,388</td>
+<td class="number">4.74</td>
+<td class="number">19.60</td>
+<td><a href="/item/main.naver?code=570044" class="tltle">TRUE 인버스 2X 나스닥 100 ETN</a></td>
+<td class="number">2,455</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">50</span>
+<td class="number">
+<span class="tah p11 nv01">-2.00%</span>
+<td class="number">1,001,265</td>
+<td class="number">2,448</td>
+<td class="number">2,450</td>
+<td class="number">2,455</td>
+<td class="number">736</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=298690" class="tltle">에어부산</a></td>
+<td class="number">2,340</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">20</span>
+<td class="number">
+<span class="tah p11 red01">+0.86%</span>
+<td class="number">1,000,917</td>
+<td class="number">2,335</td>
+<td class="number">2,340</td>
+<td class="number">2,345</td>
+<td class="number">1,513</td>
+<td class="number">-0.48</td>
+<td class="number">-220.90</td>
+<td><a href="/item/main.naver?code=011700" class="tltle">한신기계</a></td>
+<td class="number">6,650</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">240</span>
+<td class="number">
+<span class="tah p11 red01">+3.74%</span>
+<td class="number">943,304</td>
+<td class="number">6,237</td>
+<td class="number">6,640</td>
+<td class="number">6,650</td>
+<td class="number">2,158</td>
+<td class="number">195.59</td>
+<td class="number">4.86</td>
+<td><a href="/item/main.naver?code=409820" class="tltle">KODEX 미국나스닥100레버리지(합성 H)</a></td>
+<td class="number">4,545</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" width="7" height="6" style="margin-right:4px;" alt="상승"/><span class="tah p11 red02">65</span>
+<td class="number">
+<span class="tah p11 red01">+1.45%</span>
+<td class="number">941,155</td>
+<td class="number">4,309</td>
+<td class="number">4,545</td>
+<td class="number">4,550</td>
+<td class="number">1,525</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>
+<td><a href="/item/main.naver?code=316140" class="tltle">우리금융지주</a></td>
+<td class="number">11,100</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">100</span>
+<td class="number">
+<span class="tah p11 nv01">-0.89%</span>
+<td class="number">939,631</td>
+<td class="number">10,487</td>
+<td class="number">11,100</td>
+<td class="number">11,150</td>
+<td class="number">80,815</td>
+<td class="number">2.76</td>
+<td class="number">10.59</td>
+<td><a href="/item/main.naver?code=306520" class="tltle">HANARO 200선물인버스</a></td>
+<td class="number">12,135</td>
+<td class="number">
+<img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" width="7" height="6" style="margin-right:4px;" alt="하락"/><span class="tah p11 nv01">135</span>
+<td class="number">
+<span class="tah p11 nv01">-1.10%</span>
+<td class="number">937,841</td>
+<td class="number">11,366</td>
+<td class="number">12,130</td>
+<td class="number">12,155</td>
+<td class="number">540</td>
+<td class="number">N/A</td>
+<td class="number">N/A</td>

@@ -1,4 +1,4 @@
-package main
+package drawgif
 
 import (
 	"image"
@@ -17,7 +17,7 @@ const (
 	blackIndex = 1
 )
 
-func main() {
+func DrawGif() {
 	lissajous(os.Stdout)
 }
 

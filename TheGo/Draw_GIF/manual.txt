@@ -1,0 +1,1 @@
+go run main.go >파일이름.gif

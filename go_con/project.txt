@@ -1,0 +1,29 @@
+Go project(이강민) 한밤의 늑대인간 (디스코드 봇 보드게임) --
+    유저에게 메시지를 날리고 동시에 메시지를 처리한다 (동시성을 이용하기 위해) -> 문제점(명령어 실행 순서) 
+
+    
+python -> go migration(신경민, AB180) TPS 30배 증가 -
+    Poc :  외부 의존성을 포함한 시나리오로 예상
+    리팩토링 : 중요한 비즈니스 로직에서 테스트 코드 작성시 어려움이 있을 때, 기타 언어적 한계로 필수적일 때
+
+    web framework : fiber, jet6(template)
+
+    configuratuon : viper, pflag, cobra     #교체예정
+    DI : google/wire                        # uber/go-fx 교체 예정
+
+    검증 과정 : end to end tester개발  : 시나리오 생성 RDB, URL 등 인풋을 캡처 , 카프카등 아웃풋을 캡처, json형태의 파일로 저장
+
+    느낀점 : POc 컴포넌트 개발 시 외부 의존성에 대한 설정들을 꼼꼼히 확인하자,
+    오래된 컴포넌트 일수록 Deprecate 시킬 수 있는 로직이 있는지 미리 확인하자,
+    리팩토링은 최소화 하는 것이 좋다,
+    코드 작업보다 DIff 검증이 더 힘들었다.
+
+    기술 부채 해결 - 
+        복잡한 비즈니스 로직을 DDD를 통해 분리, 점진적 migration이 가능한 상태로 만들기, Unit Test 보완, 더 나은 Library 리서치(wire -> user/go-fx)
+
+golang으로 multi account/project에 있는 aws/gcp 리소스 메타데이터를 효율적으로 다루는 방법(김효민, 당근마켓 sre) -
+    문제상황 - 특정 태그를 기준으로 분리하고싶음 (AWS, GCP)
+
+    AWS Tag Edittor, GCP Asset Inventory(cloud Asset)
+
+

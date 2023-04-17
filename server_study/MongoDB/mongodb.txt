@@ -1,0 +1,9 @@
+mongo를 사용하는 이유
+
+noSQL의 대표적인언어 
+-> noSQL은 스키마가 없이 키벨류의 형태로 유연하게 저장되는 데이터 베이스를 일컫는다, ai산업이 확장되며 그에 적합한 데이터베이스로서 주목받고 있다
+
+mongoDB Compass : mysql의 workbench같은 앱
+
+유저 설정하는법 -> terminal에서 mongo shell 실행 후 db설정 후 db.createUser({user,pw,roles})로 유저생성 -> 사용
+내 admin db 유저 -> user : admin, pwd : p1234, roles : 사실상 root

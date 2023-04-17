@@ -1,0 +1,1 @@
+go에서 각각의 핸들러로 요청을 라우팅 하는 기능은 DefaultServeMux(ServeMux의 인스턴스) 메서드에서 처리된다. nil이 ListenAndServe 함수의 handler의 매개변수에 전달되면 자동으로 DefaultServeMux 메서드가 사용된다.

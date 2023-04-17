@@ -1,0 +1,82 @@
+클라이언트와 통신할 떄 HTTP 응답코드를 작성해야 한다. 가장 좋은 응답을 작성하는 방법은 아래와 같다.
+    실패시 - 
+        헤더 - 상태코드를 고민해 제대로 붙인다.
+        본문 - 에러 메시지로 직관적으로 어떤것이 문제인지를 보내주어야 한다.
+    성공시 - 
+        헤더 - 상태코드를 고민해 제대로 붙인다.
+        본문 - 클라이언트에서 요청한 내용을 정확히 담아 보내야 한다.
+
+상태 코드 --
+
+ 2xx(성공)
+    200 : OK, 성공했을 때 일반적으로 보내는 코드, 일반적으로 GET(요청된 Entity), HEAD(요청된 리소스에 해당하는 필드), POST(처리된 결과를 설명하거나 포함된 Entity)
+    201 : CREATED, 새 엔티티가 생성 되었음을 알림
+    204 : NO CONTENT, delete와 같은 작업을 했을 때 처럼 본문에 넣을 내용은 없지만 성공적으로 처리되었을 때 사용
+ 
+ 3xx(리다이렉션, 경로 재지정) // 클라이언트가 요청을 완료하기 위해 추가 조치를 해야함을 알림
+    301 : Moved Permanently, 요청된 리소스가 영구적으로 다른 위치로 이동되었음을 알림
+    304 : Not Modified, 일반적으로 CDN 또는 캐싱 서버에서 사용되며, API에 마지막 호출 이후 변경이 없음을 알림, content-location과 expires 헤더를 리턴한다.
+
+ 4xx(클라이언트 에러) // 에러에 대한 자세한 정보를 담은 엔티티를 리턴한다.
+    400 : Bad Request, 잘못된 형식의 요청 또는 도메인 유효성 검사 실패로 인해 클라의 요청을 이해할 수 없음을 알림
+    401 : Unauthorized, 사용자가 권한을 가지고 있지 않음을 알린다.
+    403 : Forbidden, 서버가 요청에 대한 실행을 거부하는것을 의미한다. 인증되지 않은 사용자가 리소스에 잘못된 접근을 요청한 경우가 많다. 리소스 접근 권한을 알리고 싶지 않다면 404를 리턴할 수 있다.
+    404 : Not Found, 요청된 URI와 일치하는 것을 찾지 못함을 알린다.
+    405 : Method Not Allowed, GET만 제공하는 컬렉션에 POST, PUT같은 메소드를 요청하는 것과 같은 경우 리턴된다.
+    408 : Requesr Timeout : 서버의 대기시간 내에 클라가 요청을 보내지 않은 경우이다.
+
+ 5xx(서버 오류) // 너무 자세한 정보를 리턴할 경우 사용자가 악용할 가능성이 생기기 때문에 최근에는 일반적인 내용만을 리턴한다.
+    500 : Internal Server Error, 일반적인 에러 메세지
+    503 : Service Unavailable, 일시적 과부화, 유지관리로 인해 현재 서버를 사용할 수 없는 상태를 의미한다. 클라이언트에게 즉시 알려 유용한 패턴을 만들 수도 있다.
+
+HTTP 헤더 --
+    
+    Authorization - 
+        문자열, 권한부여(표준 권한 부여 헤더 사용을 추천)
+    Date - 
+        RFC 3339 형식에 있는 요청의 timestamp
+    Accept - 
+        콘텐츠 타입, ex) application/xml, text/xml, application/json, text/javascript
+    Accept-Encoding. gzip, release -
+        rest api의 엔드 포인트는 가능한 경우 gzip과 deflate 인코딩을 항상 지원해야 한다.    // HTTP 프로토콜에서 지원해주는 압축 알고리즘
+        
+표준 응답 헤더 --
+    Date -
+        RFC 3339형식에 포함돼 있으며 요청이 처리된 날짜
+    Content-Type -
+        응답의 콘텐츠 타입
+    Content-Encoding -
+        gzip 또는 deflate
+    X-Requesr-ID/X-Correlation-ID -
+        다운스트림 서비스(서버 -> 클라이언트 요청) 
+
+에러 리턴 --
+객체 트리 - 
+ErrorResponse -> Error -> Innererror
+
+"ErrorResponse": 리턴되는 최상위 레벨의 에러 객체 (객체)
+{
+    "error": 에러 응답의 세부 정보 (객체)
+    {
+        "code": 서버에서 정의한 에러코드의 집합중 하나
+        "message": 사람이 읽을 수 있는 형태로 표현된 에러
+        "target": 에러의 대상
+        "innererror": 에러에 관해 현 객체보다 더 구체적인 정보를 포함한 객체 (객체)
+        {
+            "code": 이 에러를 포함하고 있는 에러가 제공한것 보다 더 구체적인 에러 코드
+            "innererror": 
+            {
+                "code": 
+                "minLength":
+                "maxLength":
+                "characterTypes":
+                    ["lowerCase","upperCase","number","symbol"],
+                    "minDistinctCharacterTypes":
+                    "innererror":
+                    {
+                        "code": 
+                    }
+            }
+        }
+    }
+}
