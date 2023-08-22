@@ -1,0 +1,33 @@
+MIME이란
+
+Multipurpose Internet Mail Extensions의 약자
+다목적 인터넷 메일 확장
+
+여러 형태의 파일을 전달하는데 사용된다.
+UUEncode 방식의 결함을 해결하기 위해 등장.
+
+ASCII로 표현할 수 없는 파일들을 네트워크를 통해 전달하기 위해서는 text파일로 변환(인코딩)하는 과정이 필요했다.
+MIME으로 인코딩한 파일은 Content-Type 정보를 파일의 앞부분에 담게 된다.
+
+파일의 형식이 웹브라우저에서 지원하는 MIME Type이라면 웹브라우저를 이용하여 열어볼 수 있다.
+이와같이 바이너리 파일 또한 웹브라우저에서 지원한다면 열 수 있다.
+하지만 지원하지 않는 형식이라면 따로 지정을 해 열 수 있다.
+
+형식: 
+  확장명: .gif
+  MIME형식: image/gif
+ -> 파일의종류/파일포맷
+
+타입: 
+    text 
+    multipart = 모든 종류의 이미지, 영상은 포함X
+    audio 
+    video 
+    application = 바이너리 데이터
+
+    application/octet-stream = 이진파일을 위한 기본값
+    text/plain = 텍스트파일에 대한 기본값, 
+    text/css 
+    text/html 
+    multipart/form-data = 브라우저에서 서버로 HTML Form의 내용을 전송 시 사용가능. 경계로 구분되는 각 파트들로 구성. 각 파트는 그 자체로 객체이며 자신만의
+    HTTP 헤더를 가진다. Content-Disposition - 업로드를 위해 필요함, Content-Tyoe 등.
